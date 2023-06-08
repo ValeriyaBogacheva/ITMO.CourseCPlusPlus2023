@@ -1,0 +1,5 @@
+﻿  Lab5Ex5_2.cpp
+C:\Users\tender\Desktop\c++\lab5\Lab5Ex5_2\Lab5Ex5_2\Lab5Ex5_2.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\tender\Desktop\c++\lab5\Lab5Ex5_2\Lab5Ex5_2\Lab5Ex5_2.cpp(42,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\tender\Desktop\c++\lab5\Lab5Ex5_2\Lab5Ex5_2\Lab5Ex5_2.cpp(47,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab5Ex5_2.vcxproj -> C:\Users\tender\Desktop\c++\lab5\Lab5Ex5_2\Debug\Lab5Ex5_2.exe
