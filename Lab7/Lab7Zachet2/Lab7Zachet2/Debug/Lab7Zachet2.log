@@ -1,0 +1,5 @@
+﻿  Lab7Zachet2.cpp
+C:\Users\tender\Desktop\c++\Lab7\Lab7Zachet2\Lab7Zachet2\Lab7Zachet2.cpp(35,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\tender\Desktop\c++\Lab7\Lab7Zachet2\Lab7Zachet2\Lab7Zachet2.cpp(35,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\tender\Desktop\c++\Lab7\Lab7Zachet2\Lab7Zachet2\Lab7Zachet2.cpp(35,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Lab7Zachet2.vcxproj -> C:\Users\tender\Desktop\c++\Lab7\Lab7Zachet2\Debug\Lab7Zachet2.exe
