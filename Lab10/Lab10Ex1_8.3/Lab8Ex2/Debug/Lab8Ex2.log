@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab8Ex2.vcxproj, Lab8Ex3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Lab10Ex1.cpp
+C:\Users\tender\Desktop\c++\Lab10\Lab10Ex1_8.3\Lab8Ex2\Lab10Ex1.cpp(43,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Lab8Ex2.vcxproj -> C:\Users\tender\Desktop\c++\Lab10\Lab10Ex1_8.3\Debug\Lab10Ex1.exe
