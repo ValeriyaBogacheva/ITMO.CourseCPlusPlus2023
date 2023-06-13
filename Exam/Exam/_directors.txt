@@ -1,0 +1,25 @@
+Full name: Osipova Anastasia Olegovna
+Age:25
+Phone: 89545545555
+Workers: 
+Department 231: 
+Full name: Alikov Alik Alikovich
+Age:26
+Phone: 89999999999
+Full name: Ivanov Aleks Aleksandrovich
+Age:20
+Phone: 81231232345
+
+
+
+Full name: Krasilnikov Aleksandr Germanovich
+Age:45
+Phone: 8123412332111
+Workers: 
+Department 231: 
+Full name: Osipov Ivan Olegovich
+Age:27
+Phone: 81234242325
+
+
+

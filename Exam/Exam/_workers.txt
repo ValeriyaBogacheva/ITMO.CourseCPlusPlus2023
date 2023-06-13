@@ -1,0 +1,24 @@
+Full name: Alikov Alik Alikovich
+Age:26
+Phone: 89999999999
+Department: 231
+Hours: 123
+Salary:1230
+
+
+Full name: Osipov Ivan Olegovich
+Age:27
+Phone: 81234242325
+Department: 546
+Hours: 23
+Salary:1150
+
+
+Full name: Ivanov Aleks Aleksandrovich
+Age:20
+Phone: 81231232345
+Department: 231
+Hours: 520
+Salary:2600
+
+
