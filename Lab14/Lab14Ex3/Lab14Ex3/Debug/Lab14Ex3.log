@@ -1,0 +1,7 @@
+﻿  Lab14Ex3.cpp
+C:\Users\tender\Desktop\c++\Lab14\Lab14Ex3\Lab14Ex3\Lab14Ex3.cpp(34,55): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+  Lab14Ex3.vcxproj -> C:\Users\tender\Desktop\c++\Lab14\Lab14Ex3\Debug\Lab14Ex3.exe
