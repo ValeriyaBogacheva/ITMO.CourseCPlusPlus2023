@@ -1,0 +1,7 @@
+﻿  Lab14Ex4.cpp
+C:\Users\tender\Desktop\c++\Lab14\Lab14Ex4\Lab14Ex4\Lab14Ex4.cpp(67,50): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Lab14Ex4.vcxproj -> C:\Users\tender\Desktop\c++\Lab14\Lab14Ex4\Debug\Lab14Ex4.exe
